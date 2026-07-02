@@ -17,7 +17,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # ====== CẤU HÌNH ======
-CHANNEL_USERNAME = "Signal_BBMA_OA_H1"   # không có @ hay t.me/
+CHANNEL_USERNAME = "SIGNAL_BBMA_OA_H4"   # không có @ hay t.me/
 # BOT_TOKEN và CHAT_ID PHẢI được set qua biến môi trường (GitHub Secrets),
 # KHÔNG hardcode thẳng giá trị vào đây, đặc biệt nếu repo là Public.
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
